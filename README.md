@@ -1,5 +1,5 @@
 # Joyeux Anniversaire, chère Bonbons ! :smiling_imp:
-This is a colorful happy birthday microgame where you play a tiny green monster with a big mouth (!), living in candy land - and your task is to catch as many candies falling down as you can by moving back and forth between left and right screen. 
+This is a colorful happy birthday microgame implemented with Unity3D & C# where you play a tiny green monster with a big mouth (!), living in candy land - and your task is to catch as many candies falling down as you can by moving back and forth between left and right screen. 
 
 # Rules of the Game
 1. At the beginning you own three lives (indicated by three hearty hearts :purple_heart: in the top left corner). 
