@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "candycatch",
+"productVersion": "1.0",
+"dataUrl": "CandyCatch.data.unityweb",
+"wasmCodeUrl": "CandyCatch.wasm.code.unityweb",
+"wasmFrameworkUrl": "CandyCatch.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.25f1"
+}
